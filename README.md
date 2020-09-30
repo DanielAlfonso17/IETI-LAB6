@@ -3,6 +3,7 @@
 
 Deploy Backend in Azure: http://ietilab.southcentralus.azurecontainer.io:8080/user
 
+Deploy Frontend in Firebase: https://taskplannerapp-caa1f.web.app/
 
 ### Código de Honor
 La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
