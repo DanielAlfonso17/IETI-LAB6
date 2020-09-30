@@ -5,7 +5,9 @@ Deploy Backend in Azure: http://ietilab.southcentralus.azurecontainer.io:8080/us
 
 Deploy Frontend in Firebase: https://taskplannerapp-caa1f.web.app/
 
-Se presentó un error al momento del despliegue el Azure, hay un conflicto entre los protocolos HTTP y HTTPS, si abrimos la consola al abrir Firebase se encuentra el error, pero en el ambiente local se encuentra corriendo de manera correcta, mostrando los usuarios que estan almacenados en el backend. Se adjunta link del repositorio del frontend
+Se presentó un error al momento del despliegue el Azure, hay un conflicto entre los protocolos HTTP y HTTPS, si abrimos la consola del navegador al abrir nuestro proyecto desplegado de Firebase se encuentra el error, pero en el ambiente local se encuentra corriendo de manera correcta, mostrando los usuarios que estan almacenados en el backend. Se adjunta link del repositorio del frontend.
+
+https://github.com/DanielAlfonso17/IETI-LAB5
 
 ### Código de Honor
 La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
