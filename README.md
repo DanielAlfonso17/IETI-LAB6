@@ -7,6 +7,8 @@ Deploy Frontend in Firebase: https://taskplannerapp-caa1f.web.app/
 
 Se presentó un error al momento del despliegue el Azure, hay un conflicto entre los protocolos HTTP y HTTPS, si abrimos la consola del navegador al abrir nuestro proyecto desplegado de Firebase se encuentra el error, pero en el ambiente local se encuentra corriendo de manera correcta, mostrando los usuarios que estan almacenados en el backend. Se adjunta link del repositorio del frontend.
 
+![](https://user-images.githubusercontent.com/54114923/94639338-981d9d80-02a1-11eb-8bfd-f81574e11970.PNG)
+
 https://github.com/DanielAlfonso17/IETI-LAB5
 
 ### Código de Honor
